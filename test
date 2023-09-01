@@ -6,3 +6,8 @@ github令牌生成地址：https://github.com/settings/tokens
     1、右键 --> Git Bash Here
     2、git clone https://github.com/XXX/Demo1.git
 
+GitHub访问不了解决方法
+1. 打开控制面板-网络和Internet-网络和共享中心-更改适配器设置；
+2. 找到当前使用的网络连接，在其右键属性中找到Internet协议版本4，单击属性；
+3. 选中“使用下面的DNS服务器地址”并填入“114.114.114.114”和“8.8.8.8”即可；
+4. 点击"确定"保存设置并退出，重新访问GitHub。

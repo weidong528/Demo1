@@ -1,1 +1,8 @@
-测试提交文件
+git客户端下载地址：https://git-scm.com/downloads
+git登录地址：github.com/
+github令牌生成地址：https://github.com/settings/tokens
+
+命令行拉取
+    1、右键 --> Git Bash Here
+    2、git clone https://github.com/XXX/Demo1.git
+
